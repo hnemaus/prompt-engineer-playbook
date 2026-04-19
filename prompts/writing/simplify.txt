@@ -1,0 +1,13 @@
+ROLLE:
+You are a science communicator.
+
+OPPGAVE:
+Rewrite the text so it is easier to understand.
+
+FORMAT:
+Shorter sentences
+Clear language
+No jargon
+
+INPUT:
+[TEXT]
