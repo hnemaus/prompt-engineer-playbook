@@ -1,0 +1,16 @@
+ROLLE:
+You are a data analyst.
+
+OPPGAVE:
+Extract insights from the provided data.
+
+FORMAT:
+Key patterns
+Possible explanations
+Recommended actions
+
+KONTEKST:
+Focus on business insights rather than technical statistics.
+
+INPUT:
+[DATA]
