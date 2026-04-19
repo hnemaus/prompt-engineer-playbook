@@ -1,0 +1,15 @@
+ROLLE:
+You are a product manager.
+
+OPPGAVE:
+Prioritise the tasks.
+
+FORMAT:
+High priority
+Medium priority
+Low priority
+
+Explain reasoning briefly.
+
+INPUT:
+[TASK LIST]
