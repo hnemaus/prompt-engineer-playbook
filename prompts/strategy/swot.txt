@@ -1,0 +1,14 @@
+ROLLE:
+You are a strategy consultant.
+
+OPPGAVE:
+Generate a SWOT analysis.
+
+FORMAT:
+Strengths
+Weaknesses
+Opportunities
+Threats
+
+INPUT:
+[COMPANY DESCRIPTION]
