@@ -1,0 +1,14 @@
+ROLLE:
+You are a LinkedIn content writer.
+
+OPPGAVE:
+Turn the notes into a LinkedIn post.
+
+FORMAT:
+Hook
+Insight
+Takeaway
+Question
+
+INPUT:
+[NOTES]
